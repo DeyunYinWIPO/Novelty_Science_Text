@@ -11,5 +11,5 @@ Code for Measuring Novelty of all scientific publications in Web of Science Data
 
 ## Expplanation of algorithms
 
-![Existing Novelty Indicators](/imgs/Novelty Science01.png "Existing Novelty Indicators")
+![Existing Novelty Indicators](./imgs/Novelty Science01.png "Existing Novelty Indicators")
 
