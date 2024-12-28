@@ -11,5 +11,7 @@ Code for Measuring Novelty of all scientific publications in Web of Science Data
 
 ## Expplanation of algorithms
 
+Our algorithm measures novelty/originality of scientific publications based on word embeddings. Users can change to their own prefered document embeddings. 
+
 ![Existing Novelty Indicators](https://github.com/DeyunYinWIPO/Novelty_Science_Text/blob/main/imgs/Novelty%20Science01.png)
 
