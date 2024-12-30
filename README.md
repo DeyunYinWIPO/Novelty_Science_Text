@@ -35,13 +35,13 @@ Our algorithm measures novelty/originality of scientific publications based on w
 
 ## Algorithm
 
-<img src="https://github.com/DeyunYinWIPO/Novelty_Science_Text/tree/main/imgs/Novelty Science02.png" style="zoom:50%;" />
+<img src="https://github.com/DeyunYinWIPO/Novelty_Science_Text/tree/main/imgs/Novelty Science02.png" width="100px>
 
 ## **Contact**
 
 Regarding paper and algorithm:
 
-- Shibayama Sotaro: https://sotaroshibayama.weebly.com/contact.html 
+- Shibayama Sotaro: sotaro.shibayama[at]circle.lu.se
 - Yin Deyun: yindeyunut@gmail.com 
 
 Regarding code: Dr. Wu Zhao (HITSZ): wuzhao@stu.hit.edu.cn
