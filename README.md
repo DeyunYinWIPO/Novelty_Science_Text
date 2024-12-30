@@ -35,7 +35,7 @@ Our algorithm measures novelty/originality of scientific publications based on w
 
 ## Algorithm
 
-<img src="F:\Dropbox\Github\papers\Novelty_Science_Text\imgs\Novelty Science02.png" style="zoom:50%;" />
+<img src="https://github.com/DeyunYinWIPO/Novelty_Science_Text/tree/main/imgs/Novelty Science02.png" style="zoom:50%;" />
 
 ## **Contact**
 
