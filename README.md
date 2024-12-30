@@ -1,6 +1,6 @@
-# Novelty_Element
+# Measuring Novelty of Science
 
-Code for Measuring Novelty/Originality of all scientific publications in Web of Science Database with Word Embeddings 
+This is code for paper ***Identify novel elements of knowledge with word embedding*, PLOS ONE (2023)**. It is created for measuring novelty/originality of all scientific publications in Web of science Database with Word Embeddings 
 
 ## Basic info
 
